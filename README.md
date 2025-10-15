@@ -2,6 +2,8 @@
 
 # Environmental "Knees" and "Wiggles" as Strong Stabilizers of Species Range Limits Set by Interspecific Competition
 
+Written by Farshad Shirani (f.shirani@gatech.edu), 2025.
+
 This repository contains MATLAB codes used in the article:
 
 "Environmental “Knees” and “Wiggles” as Strong Stabilizers of Species Range Limits Set by Interspecific Competition"
